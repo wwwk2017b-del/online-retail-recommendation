@@ -1,0 +1,301 @@
+customer_id,age_group,gender,city,member_since,total_orders,pref_category
+C0001,45-54,Male,Delhi,2018,54,Beauty
+C0002,35-44,Male,Pune,2024,66,Clothing
+C0003,25-34,Male,Ahmedabad,2018,9,Beauty
+C0004,25-34,Male,Kolkata,2019,50,Food
+C0005,55+,Male,Jaipur,2021,45,Books
+C0006,18-24,Male,Bangalore,2024,15,Clothing
+C0007,18-24,Female,Pune,2020,25,Electronics
+C0008,55+,Female,Lucknow,2023,49,Electronics
+C0009,45-54,Male,Chennai,2018,8,Toys
+C0010,25-34,Female,Hyderabad,2023,47,Sports
+C0011,18-24,Male,Delhi,2021,30,Electronics
+C0012,25-34,Male,Lucknow,2024,62,Food
+C0013,35-44,Male,Lucknow,2019,1,Books
+C0014,25-34,Male,Jaipur,2022,1,Stationery
+C0015,35-44,Female,Pune,2022,67,Clothing
+C0016,25-34,Female,Jaipur,2022,78,Electronics
+C0017,18-24,Male,Hyderabad,2022,76,Electronics
+C0018,45-54,Female,Hyderabad,2018,23,Electronics
+C0019,55+,Female,Hyderabad,2024,10,Sports
+C0020,35-44,Female,Chennai,2022,4,Sports
+C0021,55+,Female,Hyderabad,2021,50,Home & Kitchen
+C0022,18-24,Female,Chennai,2021,67,Beauty
+C0023,35-44,Male,Delhi,2022,35,Books
+C0024,35-44,Male,Lucknow,2019,34,Clothing
+C0025,25-34,Female,Delhi,2022,75,Food
+C0026,35-44,Female,Jaipur,2021,10,Books
+C0027,35-44,Female,Bangalore,2021,24,Food
+C0028,35-44,Male,Kolkata,2022,23,Beauty
+C0029,18-24,Female,Hyderabad,2018,13,Toys
+C0030,25-34,Male,Jaipur,2020,76,Books
+C0031,55+,Female,Hyderabad,2020,16,Home & Kitchen
+C0032,25-34,Male,Chennai,2021,53,Beauty
+C0033,45-54,Male,Lucknow,2019,39,Stationery
+C0034,18-24,Female,Delhi,2024,76,Sports
+C0035,45-54,Female,Pune,2024,46,Beauty
+C0036,18-24,Female,Lucknow,2019,5,Books
+C0037,25-34,Female,Mumbai,2023,17,Accessories
+C0038,55+,Female,Pune,2021,31,Home & Kitchen
+C0039,25-34,Female,Lucknow,2019,19,Electronics
+C0040,25-34,Male,Lucknow,2021,72,Electronics
+C0041,35-44,Female,Jaipur,2024,25,Food
+C0042,25-34,Female,Chennai,2023,75,Accessories
+C0043,25-34,Female,Jaipur,2019,47,Sports
+C0044,35-44,Male,Chennai,2023,3,Food
+C0045,18-24,Male,Ahmedabad,2023,76,Electronics
+C0046,25-34,Male,Hyderabad,2019,8,Books
+C0047,35-44,Male,Jaipur,2021,64,Home & Kitchen
+C0048,18-24,Male,Chennai,2021,77,Sports
+C0049,18-24,Female,Pune,2019,69,Sports
+C0050,25-34,Female,Delhi,2020,5,Electronics
+C0051,25-34,Female,Mumbai,2020,26,Books
+C0052,55+,Female,Mumbai,2019,1,Electronics
+C0053,18-24,Female,Chennai,2024,5,Stationery
+C0054,35-44,Female,Chennai,2019,74,Books
+C0055,25-34,Male,Mumbai,2020,45,Sports
+C0056,25-34,Female,Delhi,2021,72,Electronics
+C0057,25-34,Male,Bangalore,2020,50,Food
+C0058,35-44,Female,Jaipur,2018,47,Books
+C0059,45-54,Female,Bangalore,2024,38,Sports
+C0060,55+,Female,Delhi,2023,79,Home & Kitchen
+C0061,55+,Male,Pune,2018,79,Home & Kitchen
+C0062,35-44,Female,Chennai,2022,4,Home & Kitchen
+C0063,45-54,Female,Hyderabad,2022,34,Sports
+C0064,25-34,Male,Bangalore,2024,23,Electronics
+C0065,18-24,Male,Ahmedabad,2021,4,Clothing
+C0066,45-54,Male,Delhi,2022,51,Electronics
+C0067,18-24,Male,Pune,2022,70,Electronics
+C0068,25-34,Male,Delhi,2018,78,Clothing
+C0069,25-34,Male,Jaipur,2023,56,Food
+C0070,55+,Male,Lucknow,2021,1,Clothing
+C0071,35-44,Other,Ahmedabad,2023,14,Sports
+C0072,25-34,Male,Lucknow,2023,59,Clothing
+C0073,35-44,Female,Delhi,2019,38,Home & Kitchen
+C0074,25-34,Male,Chennai,2021,74,Home & Kitchen
+C0075,45-54,Male,Jaipur,2018,13,Sports
+C0076,35-44,Female,Delhi,2024,34,Home & Kitchen
+C0077,35-44,Female,Lucknow,2018,6,Food
+C0078,35-44,Male,Pune,2022,33,Electronics
+C0079,25-34,Male,Hyderabad,2023,75,Electronics
+C0080,45-54,Male,Jaipur,2024,3,Home & Kitchen
+C0081,25-34,Other,Pune,2019,75,Food
+C0082,45-54,Male,Ahmedabad,2023,51,Toys
+C0083,35-44,Female,Lucknow,2020,45,Toys
+C0084,18-24,Male,Bangalore,2021,20,Electronics
+C0085,18-24,Female,Pune,2022,11,Food
+C0086,25-34,Female,Pune,2019,10,Home & Kitchen
+C0087,35-44,Male,Ahmedabad,2019,65,Electronics
+C0088,18-24,Male,Ahmedabad,2023,35,Clothing
+C0089,55+,Female,Delhi,2023,75,Accessories
+C0090,18-24,Male,Ahmedabad,2023,60,Beauty
+C0091,18-24,Female,Bangalore,2022,37,Beauty
+C0092,35-44,Female,Hyderabad,2018,42,Books
+C0093,45-54,Male,Bangalore,2022,38,Home & Kitchen
+C0094,25-34,Female,Mumbai,2018,66,Home & Kitchen
+C0095,55+,Female,Bangalore,2023,6,Books
+C0096,35-44,Female,Hyderabad,2024,29,Home & Kitchen
+C0097,35-44,Female,Pune,2018,27,Beauty
+C0098,18-24,Female,Lucknow,2022,74,Clothing
+C0099,45-54,Male,Hyderabad,2022,52,Home & Kitchen
+C0100,45-54,Male,Hyderabad,2021,45,Beauty
+C0101,35-44,Female,Hyderabad,2019,43,Home & Kitchen
+C0102,45-54,Female,Ahmedabad,2023,6,Home & Kitchen
+C0103,25-34,Female,Lucknow,2022,62,Electronics
+C0104,25-34,Female,Hyderabad,2021,5,Accessories
+C0105,35-44,Male,Lucknow,2018,51,Beauty
+C0106,55+,Female,Kolkata,2018,46,Books
+C0107,18-24,Male,Kolkata,2018,1,Toys
+C0108,35-44,Female,Chennai,2024,73,Beauty
+C0109,25-34,Female,Lucknow,2018,35,Books
+C0110,35-44,Female,Delhi,2024,34,Food
+C0111,35-44,Male,Bangalore,2023,24,Home & Kitchen
+C0112,18-24,Male,Mumbai,2018,29,Home & Kitchen
+C0113,35-44,Male,Chennai,2018,71,Stationery
+C0114,25-34,Female,Pune,2021,63,Stationery
+C0115,35-44,Female,Kolkata,2020,56,Food
+C0116,25-34,Male,Ahmedabad,2020,18,Clothing
+C0117,35-44,Female,Pune,2021,38,Toys
+C0118,18-24,Male,Kolkata,2024,3,Clothing
+C0119,25-34,Female,Mumbai,2024,55,Electronics
+C0120,35-44,Female,Mumbai,2018,67,Clothing
+C0121,35-44,Male,Pune,2018,67,Food
+C0122,35-44,Female,Bangalore,2023,32,Food
+C0123,45-54,Male,Chennai,2023,14,Books
+C0124,45-54,Male,Kolkata,2018,23,Toys
+C0125,18-24,Female,Delhi,2019,1,Beauty
+C0126,25-34,Male,Delhi,2020,12,Food
+C0127,25-34,Female,Jaipur,2019,53,Clothing
+C0128,55+,Female,Ahmedabad,2018,74,Home & Kitchen
+C0129,55+,Male,Mumbai,2019,14,Toys
+C0130,35-44,Male,Jaipur,2023,22,Toys
+C0131,55+,Female,Delhi,2024,37,Electronics
+C0132,55+,Male,Hyderabad,2018,38,Electronics
+C0133,25-34,Male,Kolkata,2022,27,Accessories
+C0134,45-54,Female,Jaipur,2022,71,Sports
+C0135,45-54,Male,Lucknow,2023,64,Books
+C0136,55+,Male,Chennai,2021,26,Electronics
+C0137,45-54,Male,Hyderabad,2018,59,Books
+C0138,35-44,Male,Ahmedabad,2023,22,Beauty
+C0139,25-34,Male,Hyderabad,2020,62,Stationery
+C0140,18-24,Female,Delhi,2022,73,Electronics
+C0141,35-44,Male,Ahmedabad,2019,25,Clothing
+C0142,45-54,Female,Bangalore,2023,12,Books
+C0143,18-24,Female,Mumbai,2019,57,Clothing
+C0144,18-24,Female,Ahmedabad,2020,8,Sports
+C0145,45-54,Female,Pune,2018,12,Books
+C0146,55+,Female,Lucknow,2024,17,Books
+C0147,35-44,Female,Chennai,2024,9,Clothing
+C0148,18-24,Male,Delhi,2024,39,Books
+C0149,35-44,Female,Ahmedabad,2020,60,Home & Kitchen
+C0150,45-54,Female,Lucknow,2024,39,Books
+C0151,35-44,Female,Jaipur,2022,33,Food
+C0152,35-44,Male,Kolkata,2020,42,Stationery
+C0153,18-24,Male,Delhi,2020,39,Electronics
+C0154,18-24,Male,Chennai,2021,57,Home & Kitchen
+C0155,25-34,Male,Jaipur,2024,5,Beauty
+C0156,18-24,Male,Ahmedabad,2023,68,Sports
+C0157,35-44,Male,Chennai,2023,79,Books
+C0158,25-34,Female,Lucknow,2022,61,Clothing
+C0159,35-44,Other,Ahmedabad,2020,62,Sports
+C0160,18-24,Other,Ahmedabad,2021,63,Electronics
+C0161,45-54,Male,Delhi,2018,41,Clothing
+C0162,45-54,Male,Chennai,2023,47,Clothing
+C0163,35-44,Female,Mumbai,2022,35,Beauty
+C0164,35-44,Male,Bangalore,2023,13,Clothing
+C0165,35-44,Female,Chennai,2019,11,Food
+C0166,25-34,Male,Jaipur,2020,25,Food
+C0167,18-24,Male,Jaipur,2022,11,Electronics
+C0168,25-34,Male,Ahmedabad,2020,5,Electronics
+C0169,35-44,Female,Chennai,2022,40,Food
+C0170,35-44,Female,Bangalore,2019,40,Home & Kitchen
+C0171,25-34,Female,Bangalore,2021,59,Food
+C0172,35-44,Female,Jaipur,2022,42,Electronics
+C0173,35-44,Male,Chennai,2020,45,Food
+C0174,18-24,Female,Lucknow,2020,53,Sports
+C0175,18-24,Female,Kolkata,2019,13,Sports
+C0176,55+,Female,Delhi,2021,64,Home & Kitchen
+C0177,45-54,Male,Kolkata,2019,63,Home & Kitchen
+C0178,18-24,Female,Pune,2021,20,Sports
+C0179,18-24,Male,Mumbai,2021,22,Sports
+C0180,25-34,Male,Ahmedabad,2020,50,Stationery
+C0181,35-44,Male,Bangalore,2021,76,Electronics
+C0182,18-24,Male,Bangalore,2020,58,Electronics
+C0183,18-24,Male,Hyderabad,2018,13,Toys
+C0184,35-44,Female,Hyderabad,2019,47,Beauty
+C0185,35-44,Male,Mumbai,2023,56,Books
+C0186,55+,Male,Hyderabad,2023,19,Books
+C0187,55+,Male,Pune,2024,34,Books
+C0188,18-24,Female,Delhi,2024,27,Accessories
+C0189,18-24,Female,Chennai,2024,27,Beauty
+C0190,45-54,Female,Chennai,2021,3,Clothing
+C0191,25-34,Male,Kolkata,2018,9,Clothing
+C0192,25-34,Male,Pune,2022,2,Beauty
+C0193,25-34,Male,Ahmedabad,2022,18,Sports
+C0194,25-34,Other,Pune,2020,45,Beauty
+C0195,55+,Female,Pune,2020,41,Books
+C0196,55+,Male,Pune,2023,20,Books
+C0197,45-54,Female,Mumbai,2019,33,Food
+C0198,18-24,Female,Lucknow,2023,66,Accessories
+C0199,25-34,Female,Delhi,2019,44,Electronics
+C0200,35-44,Female,Pune,2018,6,Sports
+C0201,35-44,Male,Ahmedabad,2019,62,Toys
+C0202,35-44,Male,Hyderabad,2021,6,Toys
+C0203,25-34,Female,Jaipur,2021,14,Electronics
+C0204,18-24,Male,Jaipur,2022,19,Accessories
+C0205,25-34,Male,Kolkata,2022,55,Electronics
+C0206,18-24,Male,Bangalore,2023,37,Stationery
+C0207,55+,Female,Lucknow,2020,35,Books
+C0208,25-34,Male,Kolkata,2021,49,Food
+C0209,35-44,Female,Hyderabad,2022,4,Beauty
+C0210,45-54,Male,Delhi,2018,51,Sports
+C0211,25-34,Female,Hyderabad,2019,79,Accessories
+C0212,25-34,Male,Bangalore,2019,12,Books
+C0213,25-34,Female,Mumbai,2020,26,Beauty
+C0214,55+,Male,Delhi,2024,37,Food
+C0215,25-34,Male,Ahmedabad,2024,2,Electronics
+C0216,35-44,Male,Delhi,2020,5,Books
+C0217,45-54,Male,Kolkata,2024,31,Books
+C0218,18-24,Male,Lucknow,2022,10,Sports
+C0219,18-24,Male,Ahmedabad,2020,76,Sports
+C0220,18-24,Male,Jaipur,2020,37,Clothing
+C0221,35-44,Female,Ahmedabad,2021,56,Home & Kitchen
+C0222,45-54,Male,Hyderabad,2019,78,Electronics
+C0223,35-44,Female,Mumbai,2024,35,Home & Kitchen
+C0224,55+,Male,Mumbai,2020,78,Beauty
+C0225,25-34,Male,Delhi,2018,50,Stationery
+C0226,35-44,Male,Delhi,2024,44,Home & Kitchen
+C0227,18-24,Male,Hyderabad,2019,8,Accessories
+C0228,18-24,Female,Pune,2022,47,Sports
+C0229,45-54,Female,Lucknow,2023,17,Toys
+C0230,45-54,Female,Ahmedabad,2018,46,Food
+C0231,35-44,Female,Chennai,2022,62,Sports
+C0232,55+,Male,Jaipur,2018,41,Stationery
+C0233,45-54,Male,Jaipur,2020,68,Beauty
+C0234,45-54,Female,Bangalore,2023,13,Toys
+C0235,25-34,Female,Ahmedabad,2023,54,Sports
+C0236,25-34,Female,Lucknow,2024,15,Sports
+C0237,25-34,Male,Mumbai,2018,35,Clothing
+C0238,18-24,Female,Lucknow,2019,46,Books
+C0239,35-44,Female,Delhi,2023,28,Electronics
+C0240,25-34,Male,Delhi,2022,79,Home & Kitchen
+C0241,35-44,Female,Pune,2023,43,Electronics
+C0242,18-24,Male,Chennai,2021,15,Electronics
+C0243,55+,Male,Chennai,2022,19,Clothing
+C0244,25-34,Male,Hyderabad,2023,27,Accessories
+C0245,35-44,Female,Lucknow,2021,30,Beauty
+C0246,25-34,Male,Jaipur,2023,75,Electronics
+C0247,45-54,Female,Kolkata,2024,56,Toys
+C0248,18-24,Female,Hyderabad,2021,7,Beauty
+C0249,25-34,Female,Kolkata,2023,21,Food
+C0250,25-34,Male,Lucknow,2019,42,Accessories
+C0251,25-34,Male,Chennai,2021,50,Beauty
+C0252,45-54,Female,Jaipur,2019,19,Sports
+C0253,25-34,Female,Mumbai,2020,33,Clothing
+C0254,18-24,Male,Bangalore,2021,71,Books
+C0255,25-34,Male,Jaipur,2023,25,Stationery
+C0256,18-24,Female,Bangalore,2019,39,Sports
+C0257,18-24,Male,Bangalore,2021,42,Food
+C0258,45-54,Male,Chennai,2018,36,Clothing
+C0259,25-34,Male,Jaipur,2024,68,Books
+C0260,45-54,Female,Chennai,2023,72,Beauty
+C0261,35-44,Male,Bangalore,2023,70,Electronics
+C0262,25-34,Male,Bangalore,2019,30,Clothing
+C0263,35-44,Male,Chennai,2022,31,Beauty
+C0264,18-24,Male,Jaipur,2024,16,Electronics
+C0265,25-34,Other,Bangalore,2023,23,Books
+C0266,18-24,Other,Ahmedabad,2021,65,Beauty
+C0267,35-44,Female,Delhi,2024,32,Electronics
+C0268,45-54,Female,Delhi,2022,14,Clothing
+C0269,25-34,Male,Jaipur,2022,2,Accessories
+C0270,35-44,Male,Hyderabad,2023,23,Accessories
+C0271,45-54,Male,Pune,2020,15,Stationery
+C0272,45-54,Male,Mumbai,2019,38,Toys
+C0273,25-34,Female,Pune,2020,7,Clothing
+C0274,18-24,Male,Delhi,2020,2,Electronics
+C0275,55+,Female,Lucknow,2018,66,Clothing
+C0276,45-54,Female,Mumbai,2023,54,Toys
+C0277,25-34,Female,Pune,2018,13,Books
+C0278,18-24,Male,Jaipur,2024,68,Electronics
+C0279,45-54,Male,Hyderabad,2019,60,Food
+C0280,18-24,Male,Delhi,2021,23,Electronics
+C0281,18-24,Female,Lucknow,2018,2,Books
+C0282,45-54,Female,Jaipur,2024,9,Clothing
+C0283,18-24,Male,Bangalore,2024,16,Electronics
+C0284,35-44,Other,Mumbai,2022,52,Clothing
+C0285,35-44,Female,Delhi,2024,63,Books
+C0286,18-24,Male,Pune,2023,71,Sports
+C0287,45-54,Male,Delhi,2023,21,Electronics
+C0288,25-34,Female,Lucknow,2024,5,Clothing
+C0289,18-24,Male,Chennai,2022,45,Electronics
+C0290,25-34,Male,Chennai,2021,55,Electronics
+C0291,18-24,Female,Delhi,2020,52,Toys
+C0292,25-34,Female,Mumbai,2018,64,Beauty
+C0293,25-34,Female,Mumbai,2019,58,Clothing
+C0294,45-54,Female,Kolkata,2019,8,Food
+C0295,35-44,Female,Kolkata,2022,69,Beauty
+C0296,35-44,Female,Ahmedabad,2018,43,Sports
+C0297,45-54,Male,Mumbai,2022,20,Beauty
+C0298,25-34,Male,Hyderabad,2024,7,Beauty
+C0299,25-34,Male,Chennai,2023,8,Clothing
+C0300,18-24,Male,Mumbai,2024,8,Beauty

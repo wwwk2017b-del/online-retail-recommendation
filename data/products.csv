@@ -1,0 +1,101 @@
+product_id,product_name,category,price,avg_rating,stock
+P001,Wireless Headphones,Electronics,2184.43,4.9,116
+P002,Bluetooth Speaker,Electronics,4007.61,4.3,131
+P003,Smartwatch,Electronics,1200.98,3.3,97
+P004,USB Hub,Electronics,2000.69,3.5,140
+P005,Laptop Stand,Electronics,591.63,4.9,423
+P006,Webcam,Electronics,1454.53,3.5,286
+P007,Mechanical Keyboard,Electronics,3277.67,4.3,262
+P008,Gaming Mouse,Electronics,2442.75,3.7,68
+P009,Power Bank,Electronics,2298.37,3.3,197
+P010,LED Desk Lamp,Electronics,2147.63,4.0,184
+P011,Cotton T-Shirt,Clothing,1312.09,3.9,253
+P012,Denim Jeans,Clothing,1265.35,3.3,316
+P013,Casual Hoodie,Clothing,1423.55,4.0,283
+P014,Running Shorts,Clothing,1906.99,4.9,251
+P015,Winter Jacket,Clothing,892.75,3.2,395
+P016,Formal Shirt,Clothing,1430.62,4.0,464
+P017,Yoga Pants,Clothing,1296.99,4.7,44
+P018,Sports Socks,Clothing,1835.78,3.7,369
+P019,Baseball Cap,Clothing,1558.65,4.0,63
+P020,Leather Belt,Clothing,1183.08,3.5,200
+P021,Python for Data Science,Books,696.49,4.0,211
+P022,Machine Learning Basics,Books,730.64,4.3,313
+P023,Clean Code,Books,361.25,4.2,261
+P024,Atomic Habits,Books,178.4,3.8,217
+P025,The Pragmatic Programmer,Books,634.76,4.2,289
+P026,Deep Work,Books,380.89,3.7,389
+P027,System Design,Books,328.4,3.7,310
+P028,JavaScript: The Good Parts,Books,197.46,5.0,353
+P029,Data Structures,Books,405.67,3.7,72
+P030,The Lean Startup,Books,679.05,4.5,172
+P031,Non-Stick Pan,Home & Kitchen,3222.65,4.3,499
+P032,Electric Kettle,Home & Kitchen,1625.32,3.4,144
+P033,Coffee Maker,Home & Kitchen,3444.14,4.0,42
+P034,Air Purifier,Home & Kitchen,534.17,3.8,225
+P035,Vacuum Cleaner,Home & Kitchen,2762.91,4.3,223
+P036,Cutting Board,Home & Kitchen,3581.69,4.0,110
+P037,Knife Set,Home & Kitchen,3894.33,4.7,14
+P038,Blender,Home & Kitchen,2375.73,4.6,368
+P039,Toaster,Home & Kitchen,448.6,4.5,355
+P040,Rice Cooker,Home & Kitchen,393.05,3.4,72
+P041,Yoga Mat,Sports,2707.14,4.1,105
+P042,Resistance Bands,Sports,2146.45,3.5,240
+P043,Dumbbells Set,Sports,1348.07,4.6,45
+P044,Jump Rope,Sports,2838.99,4.3,252
+P045,Water Bottle,Sports,650.42,4.9,54
+P046,Foam Roller,Sports,1026.77,3.4,293
+P047,Cycling Gloves,Sports,2449.28,3.5,295
+P048,Running Shoes,Sports,2672.18,3.8,357
+P049,Badminton Racket,Sports,1196.63,4.8,394
+P050,Skipping Rope,Sports,837.22,4.0,125
+P051,Face Moisturizer,Beauty,416.31,3.7,207
+P052,Sunscreen SPF50,Beauty,558.67,4.0,174
+P053,Vitamin C Serum,Beauty,722.19,3.7,161
+P054,Shampoo,Beauty,947.62,3.8,105
+P055,Conditioner,Beauty,601.29,3.9,327
+P056,Face Wash,Beauty,973.6,4.9,304
+P057,Lip Balm,Beauty,546.52,3.7,122
+P058,Eye Cream,Beauty,996.97,3.7,11
+P059,Body Lotion,Beauty,551.41,3.3,494
+P060,Hair Oil,Beauty,409.56,4.3,135
+P061,LEGO City Set,Toys,617.77,4.1,169
+P062,Puzzle 1000 pcs,Toys,1515.36,4.3,448
+P063,Board Game,Toys,1974.56,3.6,264
+P064,RC Car,Toys,2065.91,4.0,107
+P065,Building Blocks,Toys,1692.77,4.2,249
+P066,Action Figure,Toys,2055.36,3.5,196
+P067,Doll House,Toys,709.34,3.3,157
+P068,Card Game,Toys,1016.11,3.6,355
+P069,Art Kit,Toys,1425.6,3.6,361
+P070,Science Kit,Toys,510.59,4.9,433
+P071,Organic Honey,Food,369.71,4.9,138
+P072,Green Tea,Food,571.98,4.5,443
+P073,Protein Powder,Food,746.29,4.8,108
+P074,Almonds 500g,Food,258.99,3.5,121
+P075,Dark Chocolate,Food,487.64,4.2,11
+P076,Olive Oil,Food,796.38,4.9,462
+P077,Quinoa,Food,729.29,4.3,18
+P078,Oat Meal,Food,294.21,4.5,217
+P079,Mixed Nuts,Food,726.98,4.8,129
+P080,Coffee Beans,Food,720.44,4.7,122
+P081,Leather Wallet,Accessories,489.93,4.8,349
+P082,Sunglasses,Accessories,1244.24,3.9,482
+P083,Travel Bag,Accessories,1393.3,3.2,393
+P084,Phone Case,Accessories,748.65,4.1,172
+P085,Umbrella,Accessories,1372.53,3.6,170
+P086,Key Ring,Accessories,231.54,4.1,313
+P087,Watch Strap,Accessories,1542.68,4.4,144
+P088,Card Holder,Accessories,1496.69,3.8,185
+P089,Tote Bag,Accessories,367.61,3.9,384
+P090,Laptop Bag,Accessories,649.83,4.3,239
+P091,Notebook Set,Stationery,225.89,4.8,292
+P092,Ball Pens 10pk,Stationery,244.48,3.8,106
+P093,Sticky Notes,Stationery,308.61,4.1,462
+P094,Highlighters,Stationery,152.58,4.1,13
+P095,Planner 2025,Stationery,59.94,4.4,26
+P096,Sketch Pens,Stationery,496.55,4.0,55
+P097,File Organizer,Stationery,460.69,3.9,242
+P098,Stapler,Stationery,477.88,3.8,311
+P099,Whiteboard Markers,Stationery,483.99,4.9,490
+P100,Tape Dispenser,Stationery,82.91,3.8,425
